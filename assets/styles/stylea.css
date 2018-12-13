@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+.fixed-bottom {
+    transform: translateX(625PX);
+}
+
+body {
+	background-color: lightblue;
+}
